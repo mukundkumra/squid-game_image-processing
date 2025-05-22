@@ -28,26 +28,28 @@ Process of The Project
 
 1) Images provided for the project
 
-![./img/image1.png][image1]
+![./img/image1.png](image1)
 
 2) Adding squid\_head and squid\_body
 
-![./img/image2.png][image2]
+![./img/image2.png](image2)
 
 3) Resulting Image from adding squid\_head and squid\_body
 
-![./img/image3.png][image3]
+![./img/image3.png](image3)
 
 4) Subtracting squid squid\_points from the resulting image  received from adding squid\_head and squid\_body
 
-![./img/image4.png][image4]
+![./img/image4.png](image4)
 
 5) Final Result after adding squid\_head and squid\_body and subtracting squid\_points
 
-![./img/image5.png][image5]
+![./img/image5.png](image5)
 
 **Record of project meeting**  
-![./img/image6.jpg][image6]We finished the coding aspect of the project inside the lab and wrote the report after classes in a physical meeting. 
+![./img/image6.jpg](image6)
+
+We finished the coding aspect of the project inside the lab and wrote the report after classes in a physical meeting. 
 
 **Each team member's thoughts on this project**
 
